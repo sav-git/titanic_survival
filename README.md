@@ -2,10 +2,6 @@
 
 ![Titanic](https://images8.alphacoders.com/405/405029.jpg)
 
-# Titanic Survival Prediction: Machine Learning Project
-
-![Titanic](https://images8.alphacoders.com/405/405029.jpg)
-
 An end-to-end machine learning classification project that predicts passenger survival using the historic Titanic dataset from Kaggle. This project demonstrates the full data science pipeline—from exploratory analysis to predictive modeling, including hyperparameter optimization.
 
 ## Project Overview
